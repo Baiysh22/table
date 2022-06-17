@@ -1,0 +1,18 @@
+.section-table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+td {
+  border: 2px solid red;
+  padding: 20px;
+  background-color: rgba(246, 247, 225, 0.84);
+}
+.table {
+  width: 1000px;
+  border: 1px;
+  background-color: rgb(47, 47, 47);
+}

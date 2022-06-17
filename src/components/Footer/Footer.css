@@ -1,0 +1,21 @@
+.width-footer {
+  background-color: rgb(7, 71, 111);
+  /* height: 100%; */
+  /* padding: 20px; */
+}
+.bc-footer {
+  color: red;
+  width: 1000px;
+  left: 0;
+  top: 0;
+  margin: 0 auto;
+}
+
+.footer-table {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-main {
+  text-align: center;
+}
